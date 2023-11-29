@@ -1,5 +1,17 @@
 .web{
-        color: var(--IRIS, #4D5AE5);
+        color: #4d5ae5;
+        font-family: sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 1.17px;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+        text-decoration: none;
+}
+
+.studio{
+        color: #2e2f42;
         font-family: Raleway;
         font-size: 18px;
         font-style: normal;
@@ -9,13 +21,6 @@
         text-transform: uppercase;
 }
 
-.studio{
-        color: var(--NAVY-BLUE, #2E2F42);
-        font-family: Raleway;
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 800;
-        line-height: 21px;
-        letter-spacing: 0.54px;
-        text-transform: uppercase;
+.list{
+    list-style: none;
 }
