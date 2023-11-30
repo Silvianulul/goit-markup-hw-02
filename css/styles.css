@@ -1,3 +1,13 @@
+:root{
+
+}
+
+.body-studio{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFFFF;
+}
+
 .web{
     font-family: "Raleway", sans-serif;
     font-weight: 800;
