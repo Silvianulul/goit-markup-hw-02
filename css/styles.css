@@ -54,13 +54,41 @@
 
 .adress-style{
     font-style: normal;
-
 }
 
-.contact-mail{
+.contact{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+}
+
+.section1{
+    background-color: #2e2f42;
+}
+
+.section1-title{
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.section1-button{
+    color: #ffffff;
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.section1-button:hover{
+    background-color: #404bbf;
+}
+
+.section1-button:focus{
+    background-color: #404bbf;
 }
