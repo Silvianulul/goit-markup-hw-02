@@ -63,11 +63,11 @@
     letter-spacing: 0.02em;
 }
 
-.section1{
+.first-section{
     background-color: #2e2f42;
 }
 
-.section1-title{
+.first-section-title{
     color: #ffffff;
     font-size: 56px;
     line-height: 1.07;
@@ -75,7 +75,7 @@
     letter-spacing: 0.02em;
 }
 
-.section1-button{
+.first-section-button{
     color: #ffffff;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -85,14 +85,14 @@
     letter-spacing: 0.04em;
 }
 
-.section1-button:hover{
+.first-section-button:hover{
     background-color: #404bbf;
 }
 
-.section1-button:focus{
+.first-section-button:focus{
     background-color: #404bbf;
 }
 
-.section1-button{
+.first-section-button{
     cursor:pointer
 }
