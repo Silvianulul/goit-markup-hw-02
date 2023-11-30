@@ -174,3 +174,27 @@
     font-family: "Roboto", sans-serif;
     color: #434455;
 }
+
+/* Row1 */
+.all-button{
+        color: #4d5ae5;
+        background-color: #F4F4FD;
+        text-align: center;
+        font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+}
+
+.all-button:hover{
+    background-color: #FFFFFFFF;
+    color: #404BBF;
+}
+
+.all-button:focus{
+    background-color: #FFFFFFFF;
+    color: #404BBF;
+}
