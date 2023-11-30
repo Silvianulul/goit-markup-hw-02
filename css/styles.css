@@ -92,3 +92,7 @@
 .section1-button:focus{
     background-color: #404bbf;
 }
+
+.section1-button{
+    cursor:pointer
+}
