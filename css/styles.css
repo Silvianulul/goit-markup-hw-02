@@ -190,11 +190,10 @@
 }
 
 .all-button:hover{
-    background-color: #FFFFFFFF;
-    color: #404BBF;
+    color: #FFFFFFFF;
+    background-color: #404BBF;
 }
-
 .all-button:focus{
-    background-color: #FFFFFFFF;
-    color: #404BBF;
+    color: #FFFFFFFF;
+    background-color: #404BBF;
 }
